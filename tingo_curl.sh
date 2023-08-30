@@ -1,0 +1,1 @@
+https://api.tiingo.com/tiingo/daily/aapl/prices?startDate=2019-01-02&token=169f93269e3e6e617deb899feb399b3f430ebbca
